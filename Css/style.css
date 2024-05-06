@@ -1,0 +1,52 @@
+body{
+    width: 800px;
+    height: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header{
+    background-color: lightblue;
+    height: 50px;
+    padding: 10px;
+    margin: 7px;
+}
+
+nav{
+background-color: lightgreen;
+height: 200px;
+padding: 10px;
+margin: 5px;
+}
+
+.Noticias{
+background-color: lightyellow;
+height: 300px;
+padding: 10px;
+margin: 6px;
+}
+
+section{
+    background-color: white;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 8px;
+
+}
+
+aside{
+    background-color: lightpink;
+    width: 200px;
+    padding: 10px;
+    margin: 15px;
+    height: 200px;
+
+}
+
+footer{
+    background-color: lightseagreen;
+    height: 50px;
+    padding: 10px;
+    margin: 12px;
+    
+}
